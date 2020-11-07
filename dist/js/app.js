@@ -1,0 +1,2 @@
+/** localSorage
+sessionStorage */
